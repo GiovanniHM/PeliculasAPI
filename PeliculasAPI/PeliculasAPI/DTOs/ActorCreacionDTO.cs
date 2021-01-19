@@ -8,6 +8,8 @@ using System.Threading.Tasks;
 
 namespace PeliculasAPI.DTOs
 {
+
+    //DTOS
     public class ActorCreacionDTO: ActorPatchDTO
     {
       
