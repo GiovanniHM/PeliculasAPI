@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghernandez\\source\\repos\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj": {}
+    "C:\\Users\\ghernandez\\Documents\\GitHub\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghernandez\\source\\repos\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj": {
+    "C:\\Users\\ghernandez\\Documents\\GitHub\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghernandez\\source\\repos\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ghernandez\\Documents\\GitHub\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
         "projectName": "PeliculasAPI",
-        "projectPath": "C:\\Users\\ghernandez\\source\\repos\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
+        "projectPath": "C:\\Users\\ghernandez\\Documents\\GitHub\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI.csproj",
         "packagesPath": "C:\\Users\\ghernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghernandez\\source\\repos\\PeliculasAPI\\PeliculasAPI\\obj\\",
+        "outputPath": "C:\\Users\\ghernandez\\Documents\\GitHub\\PeliculasAPI\\PeliculasAPI\\PeliculasAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
